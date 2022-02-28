@@ -1,4 +1,4 @@
-# dicee
+# App
 
 A new Flutter project.
 
